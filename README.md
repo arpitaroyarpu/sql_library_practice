@@ -72,7 +72,7 @@ Master's Student in IT | Passionate About Teaching & SQL 💻❤️
 
 ## 📂 Files in This Repo
 
-- `db_practice.sql` – Table creation and sample inserts  
+- `sql_practice.sql` – Table creation and sample inserts  
 - `README.md` – Description of database & query list  
 
 ---
